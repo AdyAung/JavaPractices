@@ -1,0 +1,4 @@
+Character name    Anti Mage
+Character age     3
+Charcter First Level      Mana Burn
+Character Second Level    Blink

@@ -1,0 +1,4 @@
+Name:             ma ji
+Email:            maji@gmail.com
+Favourite Color:  red
+Yearly Income: $44,444.00
