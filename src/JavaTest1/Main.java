@@ -10,5 +10,6 @@ public class Main {
 
         personB.introduce();
         personB.fight();
+        personA.fight();
     }
 }

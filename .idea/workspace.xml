@@ -1,103 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7b2284f-8173-4819-8405-c54d03c9b78d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/AccessMethods/ATM.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/AccessMethods/Bank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/AccessMethods/CheckingAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/AccessMethods/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/AccessMethods/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/AccessMethods/Test1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/AccessMethods/Test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/AreaCalculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/ArrayLists/Jobs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/ArrayLists/MenuItems.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/ArrayLists/NewsFeed.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/ArrayLists/StudentInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/ArrayLists/ToDos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/ArraysLectures/Argg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/ArraysLectures/BestNewsFeed.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/ArraysLectures/Classroom.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/ArraysLectures/Clothing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/ArraysLectures/HelloYou.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/ArraysLectures/News.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/ArraysLectures/Newsfeed.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/ArraysLectures/Restaurant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/ArraysLectures/dotaCharacters.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/ExceptionHandlingError/ExceptionHandling.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/FirstLearningMaterials/AnotherCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/FirstLearningMaterials/Bear.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/FirstLearningMaterials/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/FirstLearningMaterials/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/FirstLearningMaterials/ClassicCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/FirstLearningMaterials/Comparison.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/FirstLearningMaterials/CookiesStore.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/FirstLearningMaterials/DotaCharacter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/FirstLearningMaterials/Droid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/FirstLearningMaterials/GamingLaptop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/FirstLearningMaterials/Iphone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/FirstLearningMaterials/MagicNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/FirstLearningMaterials/Math.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/FirstLearningMaterials/Owl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/FirstLearningMaterials/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/FirstLearningMaterials/RaceCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/FirstLearningMaterials/SavingsAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/FirstLearningMaterials/Starbucks.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/FirstLearningMaterials/Store.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/FirstLearningMaterials/StudentGPA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/FirstLearningMaterials/TommyStore.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/Fortune.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/InheraitanceAndPolymorphism/Bank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/InheraitanceAndPolymorphism/CheckingAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/InheraitanceAndPolymorphism/Language.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/InheraitanceAndPolymorphism/Mayan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/InheraitanceAndPolymorphism/Noodle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/InheraitanceAndPolymorphism/Pho.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/InheraitanceAndPolymorphism/Ramen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/InheraitanceAndPolymorphism/SinoTibetan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/InheraitanceAndPolymorphism/Spaghetti.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/JavaTest1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/JavaTest1/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/JavaTest1/StringLiterals.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/LambdaExpression/Test1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/LambdaExpression/nameLambda.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/LoopLectures/CalculateTotal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/LoopLectures/FizzBuzz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/LoopLectures/Lunch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/LoopLectures/PrimeDetectives.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/LoopLectures/Test4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/LoopLectures/Test5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/LoopLectures/test1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/LoopLectures/test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/LoopLectures/test3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/NestedForLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/NewVersionJava/CreateProfile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/NewVersionJava/juggerAttributes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/Practicals/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/Practicals/Coffee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/Practicals/Course.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/Practicals/OnlineShop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/Practicals/Order.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/Practicals/Reservation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/Practicals/Scores.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/Practicals/Testing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/Practicals/Weather.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/Projects/CarLoan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/Projects/Continents.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/Projects/LaptopLoan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/StringMethod/DNA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/StringMethod/Equality.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/TwoDimensionalArrays/Combining.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/TwoDimensionalArrays/CreatingCalendar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/TwoDimensionalArrays/NestedLoops.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/TwoDimensionalArrays/Test1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/TwoDimensionalArrays/Test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/TwoDimensionalArrays/Test3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/TwoDimensionalArrays/Test4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/TwoDimensionalArrays/Test5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/TwoDimensionalArrays/Test6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaPractices/textio/TextIO.class" beforeDir="false" />
+    <list default="true" id="c7b2284f-8173-4819-8405-c54d03c9b78d" name="Default Changelist" comment="Second push">
+      <change beforePath="$PROJECT_DIR$/src/JavaTest1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaTest1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -313,7 +218,21 @@
       <option name="project" value="LOCAL" />
       <updated>1635176480451</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Second push">
+      <created>1635176568651</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1635176568651</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Second push">
+      <created>1635176694425</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1635176694425</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -343,23 +262,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Java Exercises, Practices and assignments." />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Exercises, Practices and assignments." />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/JavaTest1/Main.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/JavaTest1/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Second push" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second push" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
