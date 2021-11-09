@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7b2284f-8173-4819-8405-c54d03c9b78d" name="Default Changelist" comment="Second push">
-      <change beforePath="$PROJECT_DIR$/src/JavaTest1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaTest1/Main.java" afterDir="false" />
+    <list default="true" id="c7b2284f-8173-4819-8405-c54d03c9b78d" name="Default Changelist" comment="Third time pushing">
+      <change afterPath="$PROJECT_DIR$/src/ChocolateCake/Bakery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChocolateCake/CupCake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,19 +101,32 @@
   </component>
   <component name="PropertiesComponent">
     <property name="TODO_SCOPE" value="All Places" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaExercises" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.StringLiterals">
-    <configuration name="CreatingCalendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoDimensionalArrays.CreatingCalendar" />
+  <component name="RunManager" selected="Application.Bakery">
+    <configuration name="Bakery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChocolateCake.Bakery" />
       <module name="JavaPractices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TwoDimensionalArrays.*" />
+          <option name="PATTERN" value="ChocolateCake.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Droid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FirstLearningMaterials.Droid" />
+      <module name="JavaPractices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FirstLearningMaterials.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,19 +140,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="JavaTest1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NestedLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoDimensionalArrays.NestedLoops" />
-      <module name="JavaPractices" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TwoDimensionalArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,19 +174,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CreatingCalendar" />
-      <item itemvalue="Application.NestedLoops" />
       <item itemvalue="Application.Test1" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.StringLiterals" />
+      <item itemvalue="Application.Droid" />
+      <item itemvalue="Application.Bakery" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Bakery" />
+        <item itemvalue="Application.Droid" />
         <item itemvalue="Application.StringLiterals" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.CreatingCalendar" />
-        <item itemvalue="Application.NestedLoops" />
       </list>
     </recent_temporary>
   </component>
@@ -232,7 +234,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635176694425</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Third time pushing">
+      <created>1635177002946</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1635177002946</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -257,13 +266,15 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Java Exercises, Practices and assignments." />
     <MESSAGE value="Second push" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second push" />
+    <MESSAGE value="Third time pushing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Third time pushing" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
