@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7b2284f-8173-4819-8405-c54d03c9b78d" name="Default Changelist" comment="cake">
-      <change afterPath="$PROJECT_DIR$/src/PasswordChecking/PasswordCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestingExamples/ArrayNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestingExamples/RollDice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestingExamples/Wishes.java" afterDir="false" />
+    <list default="true" id="c7b2284f-8173-4819-8405-c54d03c9b78d" name="Default Changelist" comment="CodingDay11November">
+      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/CheckingPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestingExamples/CheckWardrobe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestingExamples/Division.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestingExamples/LunchBox.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ChocolateCake/Bakery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ChocolateCake/Bakery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ChocolateCake/CupCake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ChocolateCake/CupCake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestingExamples/ShirtPrices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestingExamples/ShirtPrices.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,9 +111,22 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.ShirtPrices">
-    <configuration name="ArrayNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestingExamples.ArrayNumbers" />
+  <component name="RunManager" selected="Application.CheckingPrime">
+    <configuration name="CheckingPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.CheckingPrime" />
+      <module name="JavaPractices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterviewQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Division" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestingExamples.Division" />
       <module name="JavaPractices" />
       <extension name="coverage">
         <pattern>
@@ -125,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PasswordCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PasswordChecking.PasswordCheck" />
+    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.FizzBuzz" />
       <module name="JavaPractices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PasswordChecking.*" />
+          <option name="PATTERN" value="InterviewQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,8 +151,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RollDice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestingExamples.RollDice" />
+    <configuration name="LunchBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestingExamples.LunchBox" />
       <module name="JavaPractices" />
       <extension name="coverage">
         <pattern>
@@ -164,33 +177,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Wishes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestingExamples.Wishes" />
-      <module name="JavaPractices" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TestingExamples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.PasswordCheck" />
-      <item itemvalue="Application.RollDice" />
-      <item itemvalue="Application.Wishes" />
-      <item itemvalue="Application.ArrayNumbers" />
       <item itemvalue="Application.ShirtPrices" />
+      <item itemvalue="Application.Division" />
+      <item itemvalue="Application.LunchBox" />
+      <item itemvalue="Application.FizzBuzz" />
+      <item itemvalue="Application.CheckingPrime" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckingPrime" />
+        <item itemvalue="Application.FizzBuzz" />
+        <item itemvalue="Application.LunchBox" />
         <item itemvalue="Application.ShirtPrices" />
-        <item itemvalue="Application.ArrayNumbers" />
-        <item itemvalue="Application.Wishes" />
-        <item itemvalue="Application.RollDice" />
-        <item itemvalue="Application.PasswordCheck" />
+        <item itemvalue="Application.Division" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636433395769</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="CodingDay11November">
+      <created>1636521991812</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1636521991812</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -286,7 +293,8 @@
     <MESSAGE value="Second push" />
     <MESSAGE value="Third time pushing" />
     <MESSAGE value="cake" />
-    <option name="LAST_COMMIT_MESSAGE" value="cake" />
+    <MESSAGE value="CodingDay11November" />
+    <option name="LAST_COMMIT_MESSAGE" value="CodingDay11November" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
