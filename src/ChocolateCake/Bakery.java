@@ -6,8 +6,14 @@ public class Bakery {
     String giveTotal;
 
     public Bakery(CupCake bakeryCake, double cakePrice){
-        this.bakeryCupcake = bakeryCake;
+
+        /*
+        CupCake copy = new CupCake(bakeryCake);
+        bakeryCake = copy;*/
+
+
         this.price = cakePrice;
+        bakeryCake.flavor = "Vanila";
 
         giveTotal = "The " + bakeryCake.flavor + " cupcake is $ " + price;
     }
@@ -17,5 +23,6 @@ public class Bakery {
         Bakery newCake = new Bakery(chocolate, 22);
 
         System.out.println(newCake.giveTotal);
+        System.out.println(chocolate.flavor);
     }
 }

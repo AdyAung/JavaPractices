@@ -8,4 +8,9 @@ public class CupCake {
         this.flavor = flavorType;
         this.sprinkles = sprinklesTop;
     }
+
+    public CupCake(CupCake copy){
+        this.flavor = copy.flavor;
+        this.sprinkles = copy.sprinkles;
+    }
 }

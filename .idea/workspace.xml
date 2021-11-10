@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7b2284f-8173-4819-8405-c54d03c9b78d" name="Default Changelist" comment="Third time pushing">
-      <change afterPath="$PROJECT_DIR$/src/ChocolateCake/Bakery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChocolateCake/CupCake.java" afterDir="false" />
+    <list default="true" id="c7b2284f-8173-4819-8405-c54d03c9b78d" name="Default Changelist" comment="cake">
+      <change afterPath="$PROJECT_DIR$/src/PasswordChecking/PasswordCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestingExamples/ArrayNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestingExamples/RollDice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestingExamples/Wishes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ChocolateCake/Bakery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ChocolateCake/Bakery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ChocolateCake/CupCake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ChocolateCake/CupCake.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,13 +111,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.Bakery">
-    <configuration name="Bakery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ChocolateCake.Bakery" />
+  <component name="RunManager" selected="Application.ShirtPrices">
+    <configuration name="ArrayNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestingExamples.ArrayNumbers" />
       <module name="JavaPractices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ChocolateCake.*" />
+          <option name="PATTERN" value="TestingExamples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Droid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FirstLearningMaterials.Droid" />
+    <configuration name="PasswordCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PasswordChecking.PasswordCheck" />
       <module name="JavaPractices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FirstLearningMaterials.*" />
+          <option name="PATTERN" value="PasswordChecking.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaTest1.Main" />
+    <configuration name="RollDice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestingExamples.RollDice" />
       <module name="JavaPractices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaTest1.*" />
+          <option name="PATTERN" value="TestingExamples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringLiterals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaTest1.StringLiterals" />
+    <configuration name="ShirtPrices" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestingExamples.ShirtPrices" />
       <module name="JavaPractices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaTest1.*" />
+          <option name="PATTERN" value="TestingExamples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,12 +164,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LambdaExpression.Test1" />
+    <configuration name="Wishes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestingExamples.Wishes" />
       <module name="JavaPractices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LambdaExpression.*" />
+          <option name="PATTERN" value="TestingExamples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,19 +178,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test1" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.StringLiterals" />
-      <item itemvalue="Application.Droid" />
-      <item itemvalue="Application.Bakery" />
+      <item itemvalue="Application.PasswordCheck" />
+      <item itemvalue="Application.RollDice" />
+      <item itemvalue="Application.Wishes" />
+      <item itemvalue="Application.ArrayNumbers" />
+      <item itemvalue="Application.ShirtPrices" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Bakery" />
-        <item itemvalue="Application.Droid" />
-        <item itemvalue="Application.StringLiterals" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.ShirtPrices" />
+        <item itemvalue="Application.ArrayNumbers" />
+        <item itemvalue="Application.Wishes" />
+        <item itemvalue="Application.RollDice" />
+        <item itemvalue="Application.PasswordCheck" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635177002946</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="cake">
+      <created>1636433395769</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1636433395769</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -274,7 +285,8 @@
     <MESSAGE value="Java Exercises, Practices and assignments." />
     <MESSAGE value="Second push" />
     <MESSAGE value="Third time pushing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Third time pushing" />
+    <MESSAGE value="cake" />
+    <option name="LAST_COMMIT_MESSAGE" value="cake" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
