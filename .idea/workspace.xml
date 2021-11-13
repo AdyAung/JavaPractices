@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7b2284f-8173-4819-8405-c54d03c9b78d" name="Default Changelist" comment="CodingDay11November">
-      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/CheckingPrime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterviewQuestions/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestingExamples/CheckWardrobe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestingExamples/Division.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestingExamples/LunchBox.java" afterDir="false" />
+    <list default="true" id="c7b2284f-8173-4819-8405-c54d03c9b78d" name="Default Changelist" comment="CodingDay11November&#10;Interview Questions">
+      <change afterPath="$PROJECT_DIR$/src/BankingProjects/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BankingProjects/CheckingAccount.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestingExamples/ShirtPrices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestingExamples/ShirtPrices.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,13 +107,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.CheckingPrime">
-    <configuration name="CheckingPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.CheckingPrime" />
+  <component name="RunManager" selected="Application.Bank">
+    <configuration name="Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BankingProjects.Bank" />
       <module name="JavaPractices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="InterviewQuestions.*" />
+          <option name="PATTERN" value="BankingProjects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Division" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestingExamples.Division" />
+    <configuration name="CheckingPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.CheckingPrime" />
       <module name="JavaPractices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TestingExamples.*" />
+          <option name="PATTERN" value="InterviewQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,18 +175,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.ShirtPrices" />
-      <item itemvalue="Application.Division" />
       <item itemvalue="Application.LunchBox" />
       <item itemvalue="Application.FizzBuzz" />
       <item itemvalue="Application.CheckingPrime" />
+      <item itemvalue="Application.Bank" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Bank" />
         <item itemvalue="Application.CheckingPrime" />
         <item itemvalue="Application.FizzBuzz" />
         <item itemvalue="Application.LunchBox" />
         <item itemvalue="Application.ShirtPrices" />
-        <item itemvalue="Application.Division" />
       </list>
     </recent_temporary>
   </component>
@@ -259,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636521991812</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="CodingDay11November&#10;Interview Questions">
+      <created>1636530990896</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1636530990896</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -294,7 +297,8 @@
     <MESSAGE value="Third time pushing" />
     <MESSAGE value="cake" />
     <MESSAGE value="CodingDay11November" />
-    <option name="LAST_COMMIT_MESSAGE" value="CodingDay11November" />
+    <MESSAGE value="CodingDay11November&#10;Interview Questions" />
+    <option name="LAST_COMMIT_MESSAGE" value="CodingDay11November&#10;Interview Questions" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
